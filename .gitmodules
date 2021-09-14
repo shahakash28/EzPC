@@ -4,3 +4,18 @@
 [submodule "CrypTFlow2/extern/eigen"]
 	path = SCI/extern/eigen
 	url = https://gitlab.com/libeigen/eigen
+[submodule "extern/ABY"]
+	path = PSI/extern/ABY
+	url = https://github.com/encryptogroup/ABY.git
+[submodule "extern/HashingTables"]
+	path = PSI/extern/HashingTables
+	url = https://github.com/Oleksandr-Tkachenko/HashingTables.git
+[submodule "extern/libOTe"]
+	path = PSI/extern/libOTe
+	url = https://github.com/osu-crypto/libOTe.git
+[submodule "extern/googletest"]
+	path = PSI/extern/googletest
+	url = https://github.com/google/googletest.git
+[submodule "extern/EzPC"]
+	path = PSI/extern/EzPC
+	url = https://github.com/shahakash28/EzPC-Aligned.git
